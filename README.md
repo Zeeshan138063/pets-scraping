@@ -2,6 +2,11 @@
 
 This project scrapes product data from the [Pets at Home](https://www.petsathome.com/) website using Python's `requests` library.
 
+## FOR WEBSITES WHERE API AVAILABLE
+  - Right click on api and select copy curl Request.
+  - [Go to Curl Converter and Get the Code](https://curlconverter.com/)
+  - Execute and enhance the code.Done
+
 ## Features
 
 - **Product Information**: Extracts product details like names, prices, and descriptions.
@@ -21,3 +26,9 @@ Clone the repository and install the dependencies:
 git clone https://github.com/Zeeshan138063/pets-scraping.git
 cd pets-scraping
 pip install -r requirements.txt
+
+
+## FOR WEBSITES WHERE API AVAILABLE
+### Right click on api and select copy curl Request.
+### [Go to Curl Converter and Get the Code](https://curlconverter.com/)
+### Execute and enhance the code.Done
